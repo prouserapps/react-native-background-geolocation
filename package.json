@@ -35,7 +35,7 @@
   "dependencies": {
     "plist": "^3.0.1"
   },
-  "peerDependencies": {
-    "react-native": ">=0.60.5"
+  "devDependencies": {
+    "react-native": "0.60.5"
   }
 }
